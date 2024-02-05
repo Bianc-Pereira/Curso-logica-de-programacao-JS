@@ -22,7 +22,17 @@ Este é um simples jogo de adivinhação em JavaScript, onde o jogador é desafi
 3. Insira seus palpites quando solicitado.
 4. Continue adivinhando até acertar o número secreto.
 
+## Tópicos Abordados
 
+1. **Exiba mensagens na tela de forma interativa**: Utilize alertas e caixas de diálogo prompt para interação com o usuário.
+
+2. **Utilize variáveis no desenvolvimento de software**: Variáveis são utilizadas para armazenar o número secreto, palpites do jogador e contagem de tentativas.
+
+3. **Ingresse no mundo de desenvolvimento seguindo boas práticas de programação**: O código segue boas práticas, como o uso adequado de variáveis, indentação e mensagens claras.
+
+4. **Desenvolva uma aplicação do início ao fim, inspirada no mundo real**: Este projeto simula um cenário realista de desenvolvimento de um jogo de adivinhação interativo.
+
+5. **Aprenda a adaptar soluções desenvolvidas pela linguagem em seus programas de software**: O jogo utiliza recursos nativos do JavaScript, mostrando como adaptar soluções para criar aplicações práticas.
 
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://www.ecma-international.org/ecma-262/6.0/)
